@@ -1,4 +1,4 @@
-## GLFW 3.2
+## GLFW 3.2 [![GoDoc](https://godoc.org/github.com/golang-ui/glfw?status.svg)](https://godoc.org/github.com/golang-ui/glfw)
 
 Package glfw provides Go bindings for multi-platform library for OpenGL, OpenGL ES and Vulkan development [glfw.org](http://www.glfw.org).<br />
 All the binding code has automatically been generated with rules defined in [glfw.yml](/glfw.yml).
